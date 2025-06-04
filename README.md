@@ -136,6 +136,23 @@ To explore these visualizations:
 
 [View the Notebook](./pymath_visualization.ipynb)
 
+## Data Science for Beginners - A Learning Notebook
+
+Beyond the `pymath` library itself, this project now also includes a comprehensive Jupyter Notebook designed as a learning guide for individuals new to Data Science:
+
+*   **[`data_science_learning_notebook.ipynb`](./data_science_learning_notebook.ipynb)**
+
+This notebook, titled "A Beginner's Journey into Data Science," provides a structured learning path covering:
+*   Core concepts of Data Science and its lifecycle.
+*   Python essentials for data tasks.
+*   Descriptive statistics and data exploration (EDA) techniques, often using examples from the `pymath` library.
+*   Fundamentals of data visualization with Matplotlib.
+*   An introduction to Machine Learning concepts, including a hands-on example of the k-Nearest Neighbors algorithm.
+*   A mini-project to apply learned skills.
+*   Guidance on further learning and resources.
+
+This notebook is intended to be an interactive, educational resource. To use it, ensure you have Jupyter Notebook or JupyterLab installed, along with libraries like `matplotlib` and `numpy`.
+
 ## Contributing
 
 Contributions, issues, and feature requests are welcome! Please feel free to open an issue to report bugs or suggest new features, or submit a pull request with your enhancements.
